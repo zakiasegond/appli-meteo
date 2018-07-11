@@ -1,0 +1,49 @@
+#imagefond
+{
+	background-image: url("vuedupont.jpg");
+	/*background-attachment: local;*/
+	background-repeat: no-repeat;
+	background-position: top;
+	background-size: cover;
+	height: 400px;
+	text-align: center;
+	font-size: 60px;
+	padding-top: 40%;
+	color: grey;
+}
+
+
+h2
+{
+	text-align: center;
+	font-size: 80px;
+	color: grey;
+}
+
+
+#prevision
+{
+	text-align: center;
+	color: grey;
+	font-size: 20px;
+}
+
+
+body{
+	background-color:  #003300;
+}
+
+
+
+#joursuivant
+{
+	color: white;
+	font-size: 20px;
+	text-align: center;
+}
+
+#bouton
+{
+	text-align: center;
+	margin-top: 80px;
+}
